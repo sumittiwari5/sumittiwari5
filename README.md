@@ -69,9 +69,6 @@ I am a **B.Tech graduate in Computer Science and Engineering** from **Dr. A.P.J.
 * **LinkedIn**: [Sumit Tiwari](https://linkedin.com/in/sumittiwari5) 
 * **Current Location**: Mumbai / Jaunpur 
 
-<p align="center">
-  <i>"Automating the present to build the future."</i>
-</p>
 
 <!---
 sumittiwari5/sumittiwari5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
