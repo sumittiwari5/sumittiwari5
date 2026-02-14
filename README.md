@@ -9,11 +9,11 @@
 ---
 
 ### 🚀 About Me
-I am a **B.Tech graduate in Computer Science and Engineering** from **Dr. A.P.J. [cite_start]Abdul Kalam Technical University**[cite: 14]. I specialize in bridging the gap between high-level **Machine Learning** models and robust **DevOps** infrastructure. My goal is to build intelligent systems that are as scalable as they are smart.
+I am a **B.Tech graduate in Computer Science and Engineering** from **Dr. A.P.J. Abdul Kalam Technical University**. I specialize in bridging the gap between high-level **Machine Learning** models and robust **DevOps** infrastructure. My goal is to build intelligent systems that are as scalable as they are smart.
 
 * 🎓 **Recent Graduate**: B.Tech in CSE (Class of 2025).
-* [cite_start]🛠️ **DevOps Enthusiast**: Passionate about Bash scripting, Jenkins pipelines, and Linux administration[cite: 11].
-* [cite_start]🤖 **AI Developer**: Experienced in building Siamese Neural Networks and Gemini-powered chatbots[cite: 25, 26].
+* 🛠️ **DevOps Enthusiast**: Passionate about Bash scripting, Jenkins pipelines, and Linux administration.
+* 🤖 **AI Developer**: Experienced in building Siamese Neural Networks and Gemini-powered chatbots.
 
 ---
 
@@ -60,14 +60,14 @@ I am a **B.Tech graduate in Computer Science and Engineering** from **Dr. A.P.J.
 ---
 
 ### 🌟 Featured Implementation
-> [cite_start]**Face Verification System**: Developed a **Siamese Neural Network** using **TensorFlow** and **OpenCV** to create a robust preprocessing pipeline and custom training loop for face recognition[cite: 26, 27].
+> **Face Verification System**: Developed a **Siamese Neural Network** using **TensorFlow** and **OpenCV** to create a robust preprocessing pipeline and custom training loop for face recognition.
 
 ---
 
 ### 📫 Let's Connect
-* [cite_start]**Email**: [sumit884042@gmail.com](mailto:sumit884042@gmail.com) [cite: 4]
-* [cite_start]**LinkedIn**: [Sumit Tiwari](https://linkedin.com/in/sumittiwari5) [cite: 4]
-* [cite_start]**Current Location**: Mumbai / Jaunpur [cite: 3]
+* **Email**: [sumit884042@gmail.com](mailto:sumit884042@gmail.com) 
+* **LinkedIn**: [Sumit Tiwari](https://linkedin.com/in/sumittiwari5) 
+* **Current Location**: Mumbai / Jaunpur 
 
 <p align="center">
   <i>"Automating the present to build the future."</i>
