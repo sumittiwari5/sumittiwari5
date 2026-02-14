@@ -1,48 +1,77 @@
-Hi there! I'm Sumit Tiwari, a Computer Science and Engineering professional. I have completed my Bachelor of Technology from Dr. A.P.J. Abdul Kalam Technical University (AKTU). I am a DevOps enthusiast and Machine Learning developer dedicated to building automated, intelligent, and scalable infrastructure.
+# Hi there, I'm Sumit Tiwari 👋
 
-🚀 Professional Summary
-Education: Completed a B.Tech in Computer Science and Engineering from LDC Institute of Technical Studies.
-Core Focus: Leveraging modern technologies like Python, DevOps, and ML to solve real-world problems and contribute to impactful projects.
-Experience: Interned in Machine Learning & Deep Learning, where I developed interactive AI systems using the Google Gemini API.
+<p align="left">
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-blue?style=flat-square&logo=graduation-cap" alt="B.Tech Graduate">
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20AI-success?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=google-maps" alt="Location">
+</p>
 
-🛠 Technical Skills
-This section highlights my proficiency across the full development and operations lifecycle, from writing efficient code to automating deployments.
+---
 
-💻 Programming & Software Development
-Languages: Proficient in Python, JavaScript, C, HTML, and CSS.
-Problem Solving: Strong foundations in Data Structures and algorithmic thinking.
-Web Foundations: Experienced in building responsive interfaces and static sites using JavaScript, HTML, & CSS.
+### 🚀 About Me
+I am a **B.Tech graduate in Computer Science and Engineering** from **Dr. A.P.J. [cite_start]Abdul Kalam Technical University**[cite: 14]. I specialize in bridging the gap between high-level **Machine Learning** models and robust **DevOps** infrastructure. My goal is to build intelligent systems that are as scalable as they are smart.
 
-⚙️ DevOps & System Administration
-Operating Systems: Power user of Linux and proficient in managing environments via the command line.
-Automation: Skilled in Bash Scripting to automate repetitive tasks and system configurations.
-CI/CD & Orchestration: Knowledgeable in Jenkins for continuous integration and the Fundamentals of DevOps to streamline the software delivery life cycle.
-Version Control: Expert use of Git for tracking changes and collaborating in distributed teams.
+* 🎓 **Recent Graduate**: B.Tech in CSE (Class of 2025).
+* [cite_start]🛠️ **DevOps Enthusiast**: Passionate about Bash scripting, Jenkins pipelines, and Linux administration[cite: 11].
+* [cite_start]🤖 **AI Developer**: Experienced in building Siamese Neural Networks and Gemini-powered chatbots[cite: 25, 26].
 
-🤖 Artificial Intelligence & Machine Learning
-Deep Learning: Experienced in building Face Recognition Models using Siamese Neural Networks in TensorFlow and OpenCV.
-Generative AI: Developed interactive Chatbots powered by the Google Gemini API with natural language understanding.
-ML Pipelines: Skilled in designing custom preprocessing pipelines and training loops for robust model performance.
+---
 
-📂 Projects & Experience
-Interactive Chatbot (Gemini API) :
-Developed an AI-powered chatbot in Python during my internship at NCode Sutram.
-Implemented dynamic response generation using the Google Gemini API.
+### 🛠️ Technical Ecosystem
 
-Face Recognition System :
-Engineered a verification system based on Siamese Neural Networks.
-Utilized TensorFlow for model training and OpenCV for image processing.
+<details open>
+<summary><b>Development & Scripting</b></summary>
+<br />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</details>
 
-📜 Certifications
-Jenkins & DevOps Fundamentals – GUVI Geek Network Pvt. Ltd. 
-Git – GUVI Geek Network Pvt. Ltd. 
-Machine Learning & Deep Learning – NCode Sutram 
-JavaScript, HTML & CSS – GUVI Geek Network Pvt. Ltd. 
+<br />
 
-📫 Let's Connect!
-Email: sumit884042@gmail.com 
-Location: Jaunpur, Uttar Pradesh 
-Languages: Hindi, English
+<details open>
+<summary><b>DevOps & Infrastructure</b></summary>
+<br />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</details>
+
+<br />
+
+<details open>
+<summary><b>Machine Learning & AI</b></summary>
+<br />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</details>
+
+---
+
+### 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumittiwari5&show_icons=true&theme=tokyonight&count_private=true" alt="Sumit's GitHub Stats" />
+</p>
+
+---
+
+### 🌟 Featured Implementation
+> [cite_start]**Face Verification System**: Developed a **Siamese Neural Network** using **TensorFlow** and **OpenCV** to create a robust preprocessing pipeline and custom training loop for face recognition[cite: 26, 27].
+
+---
+
+### 📫 Let's Connect
+* [cite_start]**Email**: [sumit884042@gmail.com](mailto:sumit884042@gmail.com) [cite: 4]
+* [cite_start]**LinkedIn**: [Sumit Tiwari](https://linkedin.com/in/sumittiwari5) [cite: 4]
+* [cite_start]**Current Location**: Mumbai / Jaunpur [cite: 3]
+
+<p align="center">
+  <i>"Automating the present to build the future."</i>
+</p>
 
 <!---
 sumittiwari5/sumittiwari5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
